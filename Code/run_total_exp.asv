@@ -1,0 +1,55 @@
+for str=['MMD_exp_al_with_cv']
+% exp_setting=[];
+% exp_setting.batchSize=10;
+% exp_setting.nBatch=14;
+% exp_protocol_al_with_cv('australian',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=10;
+% exp_setting.nBatch=7;
+% exp_protocol_al_with_cv('sonar',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=5;
+% exp_setting.nBatch=9;
+% exp_protocol_al_with_cv('iris',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=10;
+% exp_setting.nBatch=11;
+% exp_protocol_al_with_cv('heart',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=5;
+% exp_setting.nBatch=10;
+% exp_protocol_al_with_cv('wine',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=5;
+% exp_setting.nBatch=9;
+% exp_protocol_al_with_cv('arcene',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=10;
+% exp_setting.nBatch=20;
+% exp_protocol_al_with_cv('diabetes',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=10;
+% exp_setting.nBatch=14;
+% exp_protocol_al_with_cv('musk',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=10;
+% exp_setting.nBatch=13;
+% exp_protocol_al_with_cv('vote',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=10;
+% exp_setting.nBatch=10;
+% exp_protocol_al_with_cv('iono',exp_setting);
+% 
+% exp_setting=[];
+% exp_setting.batchSize=5;
+% exp_setting.nBatch=12;
+% exp_protocol_al_with_cv('glass',exp_setting);
